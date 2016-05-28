@@ -11,7 +11,7 @@ Here is [Oceanic Next][oceanic-next] theme for GNOME Terminal (available on Ubun
 For installation just execute desired command below. Be careful, terminal will be closed after install.
 
 ```
-wget https://raw.githubusercontent.com/denysdovhan/oceanic-next-gnome-terminal/master/oceanic-next.sh && . oceanic-next.sh
+wget https://raw.githubusercontent.com/denysdovhan/oceanic-next-gnome-terminal/master/oceanic-next.bash && . oceanic-next.bash
 ```
 
 ## Colors
