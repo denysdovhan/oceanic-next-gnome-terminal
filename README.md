@@ -13,12 +13,13 @@ For installation just execute desired command below. Be careful, terminal will b
 ```
 wget https://raw.githubusercontent.com/denysdovhan/oceanic-next-gnome-terminal/master/oceanic-next.bash && . oceanic-next.bash
 ```
-### Common Errors
-If your terminal profile is not updated after executing the script you might be missing `dconf-tools`.
-On **Ubuntu** you can install them by executing
+
+If your terminal profile is not updated after executing the script you might be missing `dconf-tools`. On **Ubuntu** you can install them by executing:
+
 ```
 sudo apt-get install dconf-tools
 ```
+
 Executing the script again should now edit the profile correctly.
 
 ## Colors
