@@ -11,7 +11,7 @@ Here is [Oceanic Next][oceanic-next] theme for GNOME Terminal (available on Ubun
 For installation just execute desired command below. Be careful, terminal will be closed after install.
 
 ```
-wget https://raw.githubusercontent.com/denysdovhan/oceanic-next-gnome-terminal/master/oceanic-next.bash && . oceanic-next.bash
+wget https://raw.githubusercontent.com/denysdovhan/oceanic-next-gnome-terminal/master/oceanic-next.bash && chmod +x oceanic-next.bash && ./oceanic-next.bash
 ```
 
 If your terminal profile is not updated after executing the script you might be missing `dconf-tools`. On **Ubuntu** you can install them by executing:
