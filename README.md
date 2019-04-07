@@ -6,7 +6,7 @@
 
 Here is [Oceanic Next][oceanic-next] theme for GNOME Terminal (available on Ubuntu, Fedora, Elementary OS, etc).
 
-## Instalation
+## Installation
 
 For installation just execute desired command below. Be careful, terminal will be closed after install.
 
